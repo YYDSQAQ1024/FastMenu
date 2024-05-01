@@ -1,0 +1,2 @@
+# FastMenu
+FastMneu插件
